@@ -1,4 +1,4 @@
 # A Guidebook to Creating Tex-format Table
-This is a walkthrough tutorial on how to create a nicely-formatted summary statistics table with Stata and Python. <br>
+This is a tutorial on how to create a nicely-formatted summary statistics table with Stata and Python. <br>
 
-The first time when I was assigned with a data task to create a summary statistics table, I wondered if there should be any commend to help with autommating the table format, because the tables in Economics journals look similar. I assumed there would be nice and helpful syntax with a few clicks to create a decent table then. But I was then quickly shocked how few I could find from the online resources on these automations. 
+The first time when I were assigned with a data task to create a summary statistics table, I blundered around and wondered if there woulld be any command to cope with autommating any table format, because tables in Economics journals look nicely similar. I then assumed there should be a clean and helpful syntax with a few tweaks to create a decent table. But I was quickly disappointed by how few I could find from the online resource on any automations. 
