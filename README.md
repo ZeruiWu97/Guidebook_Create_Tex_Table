@@ -6,6 +6,6 @@ I remember the first time I was assigned a data task to replicate a summary stat
 So, here comes this note, and with three purposes: 
   - (1) to summarize some current existing Stata commands, 
   - (2) to provide to-go python functions for the readers,
-  - (3) to explore the existing LLMs <br>
+  - (3) to explore the existing LLMs. <br>
 
 Finally, I will use the tools provided here to replicate the balance table and the regression table in [The Effect of Early-Childhood Education on Social Preferences](https://www.journals.uchicago.edu/doi/10.1086/706858). You could find the data under its [supplemental material](https://www.journals.uchicago.edu/doi/suppl/10.1086/706858#).
