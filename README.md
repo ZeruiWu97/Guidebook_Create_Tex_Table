@@ -8,4 +8,4 @@ So, here comes this note, and with three purposes:
   2. to provide to-go python functions for the readers,
   3. to explore the existing LLMs. <br>
 
-Finally, I will use the tools provided here to replicate the balance table and the regression table in [The Effect of Early-Childhood Education on Social Preferences](https://www.journals.uchicago.edu/doi/10.1086/706858). You could find the data under its [supplemental material](https://www.journals.uchicago.edu/doi/suppl/10.1086/706858#).
+Finally, I will use the tools provided here to replicate the balance table and the regression table in [The Effect of Early-Childhood Education on Social Preferences](https://www.journals.uchicago.edu/doi/10.1086/706858) by Alexander Cappelen, John List, Anya Samek, and Bertil Tungodden. You could find the data under its [supplemental material](https://www.journals.uchicago.edu/doi/suppl/10.1086/706858#).
